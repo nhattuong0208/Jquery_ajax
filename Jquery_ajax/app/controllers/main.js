@@ -1,3 +1,4 @@
+// mới
 $(document).ready(function(){
     var nguoiDungService = new NguoiDungService();
 
