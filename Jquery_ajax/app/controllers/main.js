@@ -2,6 +2,8 @@
 $(document).ready(function(){
     var nguoiDungService = new NguoiDungService();
 
+    // mới
+    
     layDanhNguoiDung();
 
     function getInput(title, btnTitle, btnID){
