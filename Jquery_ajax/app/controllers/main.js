@@ -1,4 +1,4 @@
-// mới
+// kiểm tra
 $(document).ready(function(){
     var nguoiDungService = new NguoiDungService();
 
